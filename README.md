@@ -12,3 +12,9 @@ Enhanced skill in creating data model, implemented data transformations and calc
 PDF File Link  : https://drive.google.com/file/d/1jiyhR-0X_7WNAs_SUcHyxQUGSFgD_mKS/view?usp=drive_link
 
 PBIX File Link : https://drive.google.com/file/d/1KEayyK1aGug5y58kwaJ1OErgDm-c4y1J/view?usp=drive_link
+
+PPT File Link :
+https://docs.google.com/presentation/d/1ejBg00ZYTwUUR2rs6yPb7_12UGDJIhnbNEszsqpSks4/edit?usp=sharing
+
+PPT File Link :
+https://docs.google.com/presentation/d/1ejBg00ZYTwUUR2rs6yPb7_12UGDJIhnbNEszsqpSks4/edit?usp=sharing
